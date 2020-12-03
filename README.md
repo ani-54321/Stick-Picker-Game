@@ -2,7 +2,7 @@
 Game with data handling and data visualization
 
 
-File Structure :
+## File Structure :
 	1. gameData.txt contains count of number of wins per match.
 	2. gameDateData.txt contains date and time at which the games were played.
 	3. gameDataHandling.ipynb contains data handling and its visualization.
@@ -10,7 +10,7 @@ File Structure :
 	5. Woosh.wav is sound for the game.
 
 
-About Game :
+## About Game :
 	1. The design of this game is purely developed using turtle which is like paint software running on code.
 	2. Some sound effects are added using winsound library in python which works only for windows.
 	3. This game is very simple to play and will just require simple math to win.
@@ -19,7 +19,7 @@ About Game :
 	6. Rest of the rules are written on the interface and you will know it as you play it.
 
 
-Data Handling and Data Visualization : 
+## Data Handling and Data Visualization : 
 	1. Data from the game is fetched and stored in the text file.
 	2. This data will be handeled using numpy, pandas and some self defined functions.
 	3. This handling will make it very meaningful and visualizing it will make the things more clear.
