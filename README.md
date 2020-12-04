@@ -21,7 +21,7 @@ Game with data handling and data visualization
 
 ## Data Handling and Data Visualization : 
 	1. Data from the game is fetched and stored in the text file.
-	2. This data will be handeled using numpy, pandas and some self defined functions.
+	2. This data will be handled using numpy, pandas and user defined functions.
 	3. This handling will make it very meaningful and visualizing it will make the things more clear.
 	4. Finally that handled data is taken into GameData.csv file to showcase its results.
 	5. That's how data handling and visualization convert raw data to some meaningful information.
